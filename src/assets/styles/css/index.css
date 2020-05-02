@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;  background-color: #222;
+  background-color: #282c34;
+  color: white;
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #20232a;
+  color: #ffffff;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  margin-top: 100px;
+}
+
+@keyframes App-logo-spin {
+  from { 
+    transform: rotate(0deg); 
+  }
+  to { 
+    transform: rotate(360deg); 
+  }
+}
+
+p{
+  color: white;
+}
+
+body::-webkit-scrollbar {
+  width: 0.40rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: #282c34;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #20232a;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.version {
+  position: fixed;
+  bottom: 10px;
+  right: 15px;
+  border-radius: 50px;
+}
+
+img {
+  margin: 0 10px 0 0;
+}
+
+a , a:hover, a:focus{
+  color: white;
+  text-decoration: none;
+}
