@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="100%" src="./src/assets/background.png">
+</p>
+
+<p align="center">
   A complete VueJS/Vuex Electron Boilerplate with predefined settings for automatic updates, and cross-platform availability and much more
 </p>
 
