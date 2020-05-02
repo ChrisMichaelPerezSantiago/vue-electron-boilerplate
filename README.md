@@ -29,17 +29,6 @@
 - [x] *[electron-icon-builder](https://www.npmjs.com/package/electron-icon-builder) An icon generator to generate all the icon files needed for electron packaging*
 - [x] *[adblocker-electron](https://www.npmjs.com/package/@cliqz/adblocker-electron) Electron Adblocker*
 
-## <img src="https://img.icons8.com/color/48/000000/paypal.png"> **Donations**
-VueJS Electron Boilerplate is an open source project licensed by MIT with continuous development. If you want me to continue maintaining this library and you are interested in continuing to use it, you can help me with a monetary help in the following link:
-
-
-- [One-time donation via PayPal.](https://paypal.me/chrismperezsantiago?locale.x=en_US)
-
-<a href="https://www.buymeacoffee.com/chrismichael" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
-These are projects that take a lot of effort and time to maintain. So with your help I will be more motivated to continue maintaining the VueJS Electron Boilerplate project.
-
-
 
 ## **:wrench: Developer usage**
 
@@ -145,6 +134,20 @@ It will perform the build of the application and the release as draf. Now you sh
 
 
 This is very useful because now the user should not go to the release section to download the new release of the application. It would only be enough to enter the application, and if there is a new version windows will show a notification to perform the update.
+
+
+## <img src="https://img.icons8.com/color/48/000000/paypal.png"> **Donations**
+VueJS Electron Boilerplate is an open source project licensed by MIT with continuous development. If you want me to continue maintaining this library and you are interested in continuing to use it, you can help me with a monetary help in the following link:
+
+
+- [One-time donation via PayPal.](https://paypal.me/chrismperezsantiago?locale.x=en_US)
+
+<a href="https://www.buymeacoffee.com/chrismichael" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+These are projects that take a lot of effort and time to maintain. So with your help I will be more motivated to continue maintaining the VueJS Electron Boilerplate project.
+
+
+
 
 ## **:handshake: Contributing**
 
