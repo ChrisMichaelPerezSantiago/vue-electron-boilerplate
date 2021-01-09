@@ -1,6 +1,6 @@
 {
   "name": "vue-electron-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A complete VueJS/Vuex Electron Boilerplate with predefined settings for automatic updates, and cross-platform availability and much more.",
   "private": true,
   "scripts": {
@@ -32,28 +32,28 @@
     }
   ],
   "dependencies": {
-    "@cliqz/adblocker-electron": "^1.14.2",
+    "@cliqz/adblocker-electron": "^1.19.0",
     "@u3u/vue-hooks": "^2.0.1",
-    "@vue/composition-api": "^0.5.0",
-    "core-js": "^3.6.4",
-    "cross-fetch": "^3.0.4",
-    "electron-icon-builder": "^1.0.2",
-    "electron-updater": "^4.3.1",
-    "vue": "^2.6.11",
-    "vue-router": "^3.1.6",
-    "vuex": "^3.1.3"
+    "@vue/composition-api": "^0.6.7",
+    "core-js": "^3.8.2",
+    "cross-fetch": "^3.0.6",
+    "electron-icon-builder": "^2.0.1",
+    "electron-updater": "^4.3.5",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.9",
+    "vuex": "^3.6.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.3.0",
-    "@vue/cli-plugin-eslint": "~4.3.0",
-    "@vue/cli-plugin-router": "~4.3.0",
-    "@vue/cli-plugin-vuex": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
+    "@vue/cli-plugin-babel": "~4.5.10",
+    "@vue/cli-plugin-eslint": "~4.5.10",
+    "@vue/cli-plugin-router": "~4.5.10",
+    "@vue/cli-plugin-vuex": "~4.5.10",
+    "@vue/cli-service": "~4.5.10",
     "babel-eslint": "^10.1.0",
-    "electron": "^6.0.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^6.2.2",
+    "electron": "^11.1.1",
+    "eslint": "^7.17.0",
+    "eslint-plugin-vue": "^7.4.1",
     "vue-cli-plugin-electron-builder": "^1.4.6",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   }
 }

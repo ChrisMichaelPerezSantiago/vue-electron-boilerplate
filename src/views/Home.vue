@@ -25,7 +25,7 @@
 </template>
 
 <script>
-  import {reactive, onMounted} from '@vue/composition-api';
+  import {reactive, onMounted, toRefs} from '@vue/composition-api';
   import {useStore , useState} from '@u3u/vue-hooks';
   
   export default {
@@ -44,7 +44,7 @@
   
       return{
         ...info,
-        ...state
+        ...toRefs(state)
       }
     }
   }
